@@ -17,8 +17,8 @@ location_dict = {
 def location_message(key):
     name = key['name']
     location = key['location']
-    longitude = key['GPS'][0]
-    latitude = key['GPS'][1]
+    longitude = key['GPS'][1]
+    latitude = key['GPS'][0]
     link = key['link']
     message = f"📃 Name: {name}\n📍 Location: {location}\n"
     maps_message = f"🍁 Yandex Map: {link}\n"
