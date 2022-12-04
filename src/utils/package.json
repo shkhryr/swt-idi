@@ -1,0 +1,298 @@
+{
+    "food":
+    {
+        "1":
+        {
+            "name":"Irish Pub",
+            "location":"Taras Shevchenko Street, 28", 
+            "GPS":[41.299989, 69.277096],
+            "link":"https://yandex.com/maps/-/CCUjy4QzHA"
+        }, 
+        "2":
+        {
+            "name":"Yaponamama",
+            "location":"Fidokor Street, 12", 
+            "GPS":[41.298799, 69.278597],
+            "link":"https://yandex.com/maps/-/CCUjy4HttB"
+        }, 
+        "3":
+        {
+            "name":"Socials",
+            "location":"Taras Shevchenko Street, 36A", 
+            "GPS":[41.297154, 69.280409],
+            "link":"https://yandex.com/maps/-/CCUjyBEmpD"
+        }, 
+        "4":
+        {
+            "name":"Cake Lab",
+            "location":"Mirzo Ulugbek Street, 51A", 
+            "GPS":[41.324213, 69.323561],
+            "link":"https://yandex.com/maps/-/CCUjyBaqcB"
+        }, 
+        "5":
+        {
+            "name":"Soul",
+            "location":"Buyuk Ipak Yuli Street, 152/1", 
+            "GPS":[41.327002, 69.337720],
+            "link":"https://yandex.com/maps/-/CCUjyBqO8D"
+        }, 
+        "6":
+        {
+            "name":"B&b",
+            "location":"Buyuk Ipak Yuli Street, 2", 
+            "GPS":[41.327419, 69.340606],
+            "link":"https://yandex.com/maps/-/CCUjyBRfSB"
+        }, 
+        "7":
+        {
+            "name":"KFC",
+            "location":"Buyuk Ipak Yuli Street, 105", 
+            "GPS":[41.326734, 69.330799],
+            "link":"https://yandex.com/maps/-/CCUjyBg4sB"
+        }, 
+        "8":
+        {
+            "name":"Evos",
+            "location":"Muhammad Yusuf street, 1", 
+            "GPS":[41.315168, 69.328244],
+            "link":"https://yandex.com/maps/-/CCUjyBXdKA"
+        }, 
+        "9":
+        {
+            "name":"Xon Atlas",
+            "location":"Tashkent, Temur Malik Street", 
+            "GPS":[41.350328, 69.352289],
+            "link":"https://yandex.com/maps/-/CCUjyFUHDC"
+        }, 
+        "10":
+        {
+            "name":"B&b Coffee House",
+            "location":"Kary-Niyazi Street, 61", 
+            "GPS":[41.324356, 69.298167],
+            "link":"https://yandex.com/maps/-/CCUjyFalhC"
+        }, 
+        "11":
+        {
+            "name":"Street 77",
+            "location":"Mirzo Ulugbek District, Shastri koʻchasi, 19A", 
+            "GPS":[41.315101, 69.290640],
+            "link":"https://yandex.com/maps/-/CCUjyFudsD"
+        }, 
+        "12":
+        {
+            "name":"Podushechnaya",
+            "location":"Юнусабадский район, улица Осиё, 17", 
+            "GPS":[41.325295, 69.302233],
+            "link":"https://yandex.com/maps/-/CCUjyFF7TC"
+        }, 
+        "13":
+        {
+            "name":"BBQ burger",
+            "location":"Oʻzbekiston ovozi koʻchasi, 21", 
+            "GPS":[41.312039, 69.291183],
+            "link":"https://yandex.com/maps/-/CCUjyFfcxA"
+        }, 
+        "14":
+        {
+            "name":"Dodo Pizza",
+            "location":"Kary-Niyazi Street, 61", 
+            "GPS":[41.324093, 69.297972],
+            "link":"https://yandex.com/maps/-/CCUjyFCO3A"
+        }, 
+        "15":
+        {
+            "name":"Giotto",
+            "location":"Amir Temur Avenue, 1", 
+            "GPS":[41.330615, 69.284277],
+            "link":"https://yandex.com/maps/-/CCUjyFgQPB"
+        }, 
+        "16":
+        {
+            "name":"Rayhon",
+            "location":"Мирзо-Улугбекский район, массив Буюк Ипак Йули, 1", 
+            "GPS":[41.313332, 69.287092],
+            "link":"https://yandex.com/maps/-/CCUjyFHiGD"
+        }, 
+        "17":
+        {
+            "name":"Osmanli",
+            "location":"Bunyodkor Avenue, 4", 
+            "GPS":[41.310547, 69.238909],
+            "link":"https://yandex.com/maps/-/CCUjyFX82A"
+        }, 
+        "18":
+        {
+            "name":"Central Asian Pilaf Center Besh Qozon",
+            "location":"Iftihor Street, 1", 
+            "GPS":[41.347656, 69.285362],
+            "link":"https://yandex.com/maps/-/CCUjyFxC2C"
+        }, 
+        "19":
+        {
+            "name":"Minor Somsa № 1",
+            "location":"ulitsa Khamida Asomova, 5/10", 
+            "GPS":[41.337756, 69.276314],
+            "link":"https://yandex.com/maps/-/CCUjyJEFXD"
+        }, 
+        "20":
+        {
+            "name":"Efendi",
+            "location":"Labzak Street, 12/1", 
+            "GPS":[41.327895, 69.269230],
+            "link":"https://yandex.com/maps/-/CCUjyJUdcD"
+        }, 
+        "21":
+        {
+            "name":"Steam",
+            "location":"Niyozbek Yoli street, 2", 
+            "GPS":[41.325079, 69.283209],
+            "link":"https://yandex.com/maps/-/CCUjyJBdcD"
+        }
+    },
+    "place":
+    {
+        "1":
+        {
+            "name":"Museum of Victory",
+            "location":"Tashkent, Park of Victory", 
+            "GPS":[41.354158, 69.222276],
+            "link":"https://yandex.com/maps/-/CCUjyZvS2C"
+        }, 
+        "2":
+        {
+            "name":"Muzey prikladnogo iskusstva",
+            "location":"Tashkent, Rakatboshi street, 15", 
+            "GPS":[41.301302, 69.259428],
+            "link":"https://yandex.com/maps/-/CCUjyZGedB"
+        }, 
+        "3":
+        {
+            "name":"State Museum of the Temurids’ History",
+            "location":"Tashkent, Amir Temur Avenue, 1", 
+            "GPS":[41.313481, 69.279193],
+            "link":"https://yandex.com/maps/-/CCUjyZS7TA"
+        }, 
+        "4":
+        {
+            "name":"Borodin S.P. Uy-Muzeyi",
+            "location":"Tashkent, Lashkarbegi street, 18", 
+            "GPS":[41.321554, 69.294467],
+            "link":"https://yandex.com/maps/-/CCUjyZclpB"
+        }, 
+        "5":
+        {
+            "name":"State Museum Of Army Of Uzbekistan",
+            "location":"Ташкент, улица Мирзо Улугбека, 98", 
+            "GPS":[41.331517, 69.333633],
+            "link":"https://yandex.com/maps/-/CCUjyZsNkA"
+        }, 
+        "6":
+        {
+            "name":"Home museum of Ural Tansykbaev",
+            "location":"Mirzo Ulugbek District, Buz-1 Residential Area, 3", 
+            "GPS":[41.334575, 69.331136],
+            "link":"https://yandex.com/maps/-/CCUjyZDiwB"
+        }, 
+        "7":
+        {
+            "name":"Amir Temur Square",
+            "location":"Tashkent, Amir Temur Square", 
+            "GPS":[41.311299, 69.279771],
+            "link":"https://yandex.com/maps/-/CCUjy6GS-A"
+        }, 
+        "8":
+        {
+            "name":"Tashkent Central Park named after Mirzo Ulugbek",
+            "location":"Tashkent, Movarounnahr Street, 21", 
+            "GPS":[41.312848, 69.298154],
+            "link":"https://yandex.com/maps/-/CCUjy6SL2A"
+        }, 
+        "9":
+        {
+            "name":"Zahiriddin Muhammad Bobur nomidagi Toshkent markaziy eko bog'i",
+            "location":"Tashkent, Zahiriddin Muhammad Bobur nomidagi Toshkent markaziy eko bog'i", 
+            "GPS":[41.309839, 69.295532],
+            "link":"https://yandex.com/maps/-/CCUjy6WZOB"
+        }, 
+        "10":
+        {
+            "name":"Moviy gumbazlar",
+            "location":"Tashkent, Sharof Rashidov Street", 
+            "GPS":[41.306914, 69.267428],
+            "link":"https://yandex.com/maps/-/CCUjy6c4-B"
+        }, 
+        "11":
+        {
+            "name":"Tashkent City Park",
+            "location":"Tashkent, Islam Karimov Street", 
+            "GPS":[41.316406, 69.248322],
+            "link":"https://yandex.com/maps/-/CCUjy6c1LD"
+        }, 
+        "12":
+        {
+            "name":"Abdylla Kadyry parky",
+            "location":"Tashkent, Zarqaynar Street, 6", 
+            "GPS":[41.328533, 69.242965],
+            "link":"https://yandex.com/maps/-/CCUjy6wfxA"
+        }, 
+        "13":
+        {
+            "name":"National Park of Uzbekistan named after Alisher Navoi",
+            "location":"Tashkent, National Park of Uzbekistan named after Alisher Navoi", 
+            "GPS":[41.302381, 69.243164],
+            "link":"https://yandex.com/maps/-/CCUjy6D5cD"
+        }, 
+        "14":
+        {
+            "name":"Tashkent Botanical Garden named after F. N. Rusanova",
+            "location":"Bogishamol Street, 232", 
+            "GPS":[41.344741, 69.310579],
+            "link":"https://yandex.com/maps/-/CCUjy6XJCC"
+        }, 
+        "15":
+        {
+            "name":"Bolajon",
+            "location":"Tashkent, Bolajon madaniyat va istirohat bogʻi", 
+            "GPS":[41.308111, 69.281166],
+            "link":"https://yandex.com/maps/-/CCUjy6tDcB"
+        }
+    },
+    "event":
+    {
+        "1":
+        {
+            "name":"SW tashklent",
+            "location":"Ташкент, Мирзо-Улугбекский район, улица Миллий Бог, 264", 
+            "GPS":[41.327980, 69.427229],
+            "link":"https://yandex.com/maps/-/CCUjyGsW-D"
+        }, 
+        "2":
+        {
+            "name":"Новогодние мастер-классы в Morozart",
+            "location":"массив Джангох, 33, Шайхантахурский район", 
+            "GPS":[41.329937, 69.253712],
+            "link":"https://yandex.com/maps/-/CCUjyHripA"
+        }, 
+        "3":
+        {
+            "name":"Вечеринки в Fabis",
+            "location":"Tashkent, Tallimarjon Street, 15B", 
+            "GPS":[41.273967, 69.298904],
+            "link":"https://yandex.com/maps/-/CCUjyLUZxA"
+        }, 
+        "4":
+        {
+            "name":"Фотовыставка «Можно жить»",
+            "location":"Ташкент, Яшнободский район, улица Султанали Машхади, 210", 
+            "GPS":[41.308732, 69.325663],
+            "link":"https://yandex.com/maps/-/CCUjyPWlwB"
+        }, 
+        "5":
+        {
+            "name":"Аладдин и его волшебная лампа",
+            "location":"Tashkent, Zahiriddin Muhammad Bobur nomidagi Toshkent markaziy eko bog'i", 
+            "GPS":[41.310047, 69.295386],
+            "link":"https://yandex.com/maps/-/CCUjyPwvCD"
+        }
+    } 
+}
